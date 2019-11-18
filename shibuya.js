@@ -1,1 +1,1 @@
-console.log('Shiba-san!!')
+console.log('Shiba-san!! sabe de nada inocente.')
